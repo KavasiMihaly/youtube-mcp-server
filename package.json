@@ -20,6 +20,7 @@
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.17.0",
+    "dotenv": "^17.2.1",
     "googleapis": "^129.0.0",
     "youtube-transcript": "^1.0.6",
     "ytdl-core": "^4.11.5"
